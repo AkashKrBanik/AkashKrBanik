@@ -3,8 +3,9 @@
 </p>
 
 ## 🙋‍♂️ About Me
-Hi! I'm **Akash Kumar Banik**, a passionate and driven MCA student at VIT Vellore with a strong foundation in web development, UI/UX design, and programming. With a background in C, C++, Java, Python, and database management, I enjoy creating intuitive and user-friendly digital experiences.<br><br>Currently, I’m expanding my skills in data analytics—exploring how data can drive smarter decisions, uncover insights, and improve user experiences. I’m particularly drawn to blending visual design, user behavior, and analytical thinking to solve real-world problems.<br><br>I'm a quick learner, an effective communicator, and thrive in collaborative environments. Whether it’s designing interfaces, analyzing datasets, or contributing to open-source, I’m always eager to learn and grow.
-<br>
+Hi! I'm **Akash Kumar Banik**, a passionate and driven MCA student at VIT Vellore with a strong foundation in Web Development, UI/UX Design, and Programming. With a background in C, C++, Java, Python, and Database Management, I enjoy creating intuitive and user-friendly digital experiences.<br><br>Currently, I’m expanding my skills in data analytics—exploring how data can drive smarter decisions, uncover insights, and improve user experiences. I’m particularly drawn to blending visual design, user behavior, and analytical thinking to solve real-world problems.<br><br>I'm a quick learner, an effective communicator, and thrive in collaborative environments. Whether it’s designing interfaces, analyzing datasets, or contributing to open-source, I’m always eager to learn and grow.<br><br>
+
+## 🔗 Checkout my portfolio at [www.akashkbanik.me](https://www.akashkbanik.me) <br><br>
 
 ## 🌐 Connect with Me
 
@@ -40,7 +41,7 @@ Hi! I'm **Akash Kumar Banik**, a passionate and driven MCA student at VIT Vellor
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" />
     </picture>
   </a>
-</p>
+</p> <br>
 
 
 ## 💻 Tech Stack
@@ -84,7 +85,7 @@ Hi! I'm **Akash Kumar Banik**, a passionate and driven MCA student at VIT Vellor
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-
+<br><br>
 
 ## 📊 GitHub Stats
 
@@ -106,19 +107,18 @@ Hi! I'm **Akash Kumar Banik**, a passionate and driven MCA student at VIT Vellor
   </tr>
 </table> 
 
-</div>
-
+</div><br>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AkashKrBanik&theme=aura&no-frame=false&no-bg=true&margin-w=4&column=6" alt="GitHub Trophies" />
-</div>
+</div> <br>
 
-### ✍️ Random Dev Quote  
+## ✍️ Random Dev Quote  
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin_macchiato)
+  ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin_macchiato)
 
 </div>
 
