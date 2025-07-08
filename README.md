@@ -5,7 +5,7 @@
 ## 🙋‍♂️ About Me
 Hi! I'm **Akash Kumar Banik**, a passionate and driven MCA student at VIT Vellore with a strong foundation in Web Development, UI/UX Design, and Programming. With a background in C, C++, Java, Python, and Database Management, I enjoy creating intuitive and user-friendly digital experiences.<br><br>Currently, I’m expanding my skills in data analytics—exploring how data can drive smarter decisions, uncover insights, and improve user experiences. I’m particularly drawn to blending visual design, user behavior, and analytical thinking to solve real-world problems.<br><br>I'm a quick learner, an effective communicator, and thrive in collaborative environments. Whether it’s designing interfaces, analyzing datasets, or contributing to open-source, I’m always eager to learn and grow.<br><br>
 
-## 🔗 Checkout my portfolio at [www.akashkbanik.me](https://www.akashkbanik.me) <br><br>
+## 🔗 Checkout my portfolio at &nbsp;&nbsp; [www.akashkbanik.me](https://www.akashkbanik.me) <br><br>
 
 ## 🌐 Connect with Me
 
