@@ -86,25 +86,6 @@ Hi! I'm Akash Kumar Banik, a passionate and driven MCA student at VIT Vellore wi
 
 <div align="center">
 
-<!-- Row 1: GitHub Stats & Streak -->
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkashKrBanik&theme=dark&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&ring_color=1e90ff" alt="GitHub Stats" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AkashKrBanik&theme=dark&hide_border=false" alt="GitHub Streak" />
-</div>
-
-<br/>
-<!-- Row 2: Centered Top Languages -->
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashKrBanik&theme=dark&hide_border=false&layout=compact&card_width=400px" alt="Top Languages" />
-</div>
-
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
 <table>
   <tr>
     <td>
@@ -119,7 +100,7 @@ Hi! I'm Akash Kumar Banik, a passionate and driven MCA student at VIT Vellore wi
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashKrBanik&theme=dark&hide_border=false&layout=compact&card_width=400px" alt="Top Languages" />
     </td>
   </tr>
-</table>
+</table> 
 
 </div>
 
