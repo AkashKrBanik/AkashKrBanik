@@ -1,5 +1,9 @@
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=AkashKrBanik&label=Profile%20Visits&color=007acc&style=for-the-badge" alt="akashkrbanik" /> 
+</p>
+
 ## 🙋‍♂️ About Me
-Hi! I'm Akash Kumar Banik, a passionate and driven MCA student at VIT Vellore with a strong foundation in web development, UI/UX design, and programming. With a background in C, C++, Java, Python, and database management, I enjoy creating intuitive and user-friendly digital experiences.<br><br>Currently, I’m expanding my skills in data analytics—exploring how data can drive smarter decisions, uncover insights, and improve user experiences. I’m particularly drawn to blending visual design, user behavior, and analytical thinking to solve real-world problems.<br><br>I'm a quick learner, an effective communicator, and thrive in collaborative environments. Whether it’s designing interfaces, analyzing datasets, or contributing to open-source, I’m always eager to learn and grow.
+Hi! I'm **Akash Kumar Banik**, a passionate and driven MCA student at VIT Vellore with a strong foundation in web development, UI/UX design, and programming. With a background in C, C++, Java, Python, and database management, I enjoy creating intuitive and user-friendly digital experiences.<br><br>Currently, I’m expanding my skills in data analytics—exploring how data can drive smarter decisions, uncover insights, and improve user experiences. I’m particularly drawn to blending visual design, user behavior, and analytical thinking to solve real-world problems.<br><br>I'm a quick learner, an effective communicator, and thrive in collaborative environments. Whether it’s designing interfaces, analyzing datasets, or contributing to open-source, I’m always eager to learn and grow.
 <br>
 
 ## 🌐 Connect with Me
@@ -105,13 +109,11 @@ Hi! I'm Akash Kumar Banik, a passionate and driven MCA student at VIT Vellore wi
 </div>
 
 
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AkashKrBanik&theme=aura&no-frame=false&no-bg=true&margin-w=4&column=6" alt="GitHub Trophies" />
 </div>
-
 
 ### ✍️ Random Dev Quote  
 <div align="center">
@@ -121,6 +123,6 @@ Hi! I'm Akash Kumar Banik, a passionate and driven MCA student at VIT Vellore wi
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AkashKrBanik&icon=1&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
